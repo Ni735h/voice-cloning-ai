@@ -1,0 +1,12 @@
+torch
+transformers
+fastapi
+uvicorn
+streamlit
+numpy
+soundfile
+librosa
+scipy
+huggingface_hub
+qwen-tts
+requests
